@@ -1,1 +1,1 @@
-#Capsule8 Telemetry Data Sample
+# Telemetry Data Sample
